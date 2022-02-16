@@ -8,7 +8,7 @@
 
 int main(int argc, char* argv[])
 {
-  char * a =malloc(12*sizeof(char));
+  char * a = malloc(12*sizeof(char));
   char * b =malloc(16*sizeof(char));
   char * c =malloc(19*sizeof(char)); 
   char * d =malloc(13*sizeof(char));
